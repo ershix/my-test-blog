@@ -25,7 +25,7 @@ SECRET_KEY = '*bpqy(txsmlx2)$zkp(c&vgzsk=6l762crztki5jm-c6r+b8f6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ershix.pythonanywhere.com']
+ALLOWED_HOSTS = ['ershix.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
